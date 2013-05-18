@@ -31,7 +31,7 @@ you totally missed that! NICE JOB IDIOT" kind of
 responses. Kind critizism is greatly apperciated 
 though. 
 
-Thank you for your time an interest!
+Thank you for your time and interest!
 
 if you want to email me:
 
