@@ -21,16 +21,6 @@ leaves a lot of room for error. My code is no where
 close to perfect at its best. I am only providing it for 
 educational purposes.
 
-I also have my research paper in the github with 
-updated notes in the back half of it, but that too may 
-be inaccurate in some of the technical parts of it. If 
-so, please point them out so I can get a better 
-understanding of what I'm dealing with. Please no, 
-"Wow, you're doing a senior exit reseach paper and 
-you totally missed that! NICE JOB IDIOT" kind of 
-responses. Kind critizism is greatly apperciated 
-though. 
-
 Thank you for your time and interest!
 
 if you want to email me:
